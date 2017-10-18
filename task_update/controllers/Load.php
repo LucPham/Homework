@@ -5,7 +5,7 @@
 	 * With namespace Controller\Loads	
 	 * This class use to get value input form (text, password, email, checkbox)
 	 * Return data input
-		
+	 * Update on Github	
 	**/
 	namespace Controller\Loads;
 	
